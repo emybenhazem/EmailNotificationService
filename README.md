@@ -1,0 +1,2 @@
+# EmailNotificationService
+ Clean Architecture Microservices 
